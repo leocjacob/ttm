@@ -10,23 +10,15 @@ ASD Lab 2017
 
 ### Technology
 
-  - Python 3.6.2
-  - Django 1.11.3
+  - PHP
   - Bootstrap Latest
   - Mysql
 
 ### Setup Machine (Windows 10 x64)
 
 You are free to use any OS Linux, Windows 7 or later versions.
-- Download and Install [Python] (Uninstall any previous version if any).
-- Open command prompt in administrator mode.
-```sh
-python --version
-```
-- If this command shows the version of python, then installation is successfull if not showing, restart your system or set python path manually.
-```sh
-python -m pip install django==1.11.3
-```
+- Download and Install WAMP SERVER (Uninstall any previous version if any).
+
 - Download and install [git] for windows.
 
 ```sh
@@ -38,7 +30,6 @@ mkdir projectfolder
 cd projectfolder
 init git
 ```
-- TO BE CONTINUED...
 
-   [Python]:<https://www.python.org/ftp/python/3.6.2/python-3.6.2.exe>
+   [WAMP]:<http://www.wampserver.com/en/>
    [git]:<https://git-scm.com/download/win>
